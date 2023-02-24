@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400px;
+    color: #333333;
+}
+header{
+    text-align: center;
+}
+
+.headline{
+    display: block;
+    padding: 20px;
+    border-top: solid 2px #FFD877;
+    background-color: #FDFBF1;
+    color: #004D4C;
+    font-size: 1.1em;
+    line-height: 1em;
+}
+main{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 50px;
+}
+article{
+    width: 750px;
+}
+
+/* Box */
+
+#box-image{
+    text-align: center;
+    color: #999999;
+    padding: 20px 0px 20px 0px;
+}
+#box-link{
+    border-left: solid 2px #FFD877;
+    padding: 0px 15px 0px 15px;
+}
+#box-instruction{
+    padding: 40px 0px 20px 0px;
+}
+
+/* Image */
+
+.logo-simply{
+    height: 60px;
+    padding: 20px;
+}
+.focaccia{
+    width: 750px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 15px #7e7e7e63;
+    margin-bottom: 15px;
+}
+
+/* Text */
+
+h1{
+    font-size: 2em;
+    padding: 20px;
+    line-height: 1.2em;
+    text-align: center;
+}
+h2{
+    font-size: 1.5em;
+    padding: 20px 0px 20px 0px;
+    line-height: 1.2em;
+    font-weight: 400;
+    border-bottom: solid 2px #C4F3F2;
+}
+h4{
+    font-size: 1em;
+    padding: 20px 0px 20px 0px;
+}
+p{
+    padding: 0px;
+}
+a{
+    padding: 0px;
+}
+.title-link{
+    color: #B5460F;
+}
+.text-link{
+    color: #139797;
+}
+
+/* List */
+
+ol{
+    padding: 30px 0px 0px 30px;
+}
+ul{
+    padding: 0px 0px 0px 30px;
+}
+li{
+    padding: 8px;
+
+}
+.box-instruction p{
+    padding-left: 10px;
+}
