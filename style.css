@@ -101,9 +101,9 @@ ul{
     padding: 0px 0px 0px 30px;
 }
 li{
-    padding: 8px;
+    padding: 10px;
 
 }
-.box-instruction p{
+#box-instruction p{
     padding-left: 10px;
 }
